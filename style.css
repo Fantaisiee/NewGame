@@ -1,0 +1,19 @@
+#canvas1 {
+    width: 600px;
+    height: 600px;  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#select-animations{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100px;
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+}
